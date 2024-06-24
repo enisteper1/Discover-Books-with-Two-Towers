@@ -1,0 +1,6 @@
+pandas==2.2.2
+numpy==1.26.4
+transformers==4.38.2
+tensorflow==2.15.0
+tensorflow-recommenders==0.7.3
+hnswlib==0.8.0
