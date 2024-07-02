@@ -11,7 +11,7 @@ This project aims to build a book recommendation system using with following ste
 At first,libraries are initalized, dataset is loaded and data is preprocessed. In order to train two tower architecture book pairs which are read from same user are selected. 
 
 ## 2. Book to Book Model
-After data preprocessing sub-models are defined for id based features like ISBN, Author, Publisher. Then with addition of the text embedding of book titles and publication years Book to Book recommendation model is defined. 
+After data preprocessing sub-models are defined for id based features like ISBN, Author, Publisher. With addition of the text embedding of book titles and publication years Book to Book recommendation model is defined. 
 
 <h3 align=left> Two Tower Architecture </h3>
 <img src="https://github.com/enisteper1/Discover-Books-with-Two-Towers/assets/45767042/4b781add-f9e7-41f2-b703-9b039b43fa27" width="60%" height="60%">
