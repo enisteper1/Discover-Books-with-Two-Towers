@@ -17,7 +17,9 @@ After data preprocessing sub-models are defined for id based features like ISBN,
 <img src="https://github.com/enisteper1/Discover-Books-with-Two-Towers/assets/45767042/4b781add-f9e7-41f2-b703-9b039b43fa27" width="60%" height="60%">
 
 ## 3. Recommendations & Evaluation
-In this section  recommendations are generated and performance of the model is evaluated using NDCG metric. From the results, it can be seen that our approach is approximately 10 times better tham recommending popular items.
+In this section  recommendations are generated and performance of the model is evaluated using NDCG metric.
+From the results, it can be seen that our approach is approximately 10 times better tham recommending popular items.
+
 <img src="https://github.com/enisteper1/Discover-Books-with-Two-Towers/assets/45767042/e6feac6d-8140-41ae-82d9-e45df4b004ff" width="60%" height="60%">
 
 
