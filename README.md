@@ -1,5 +1,5 @@
 <td>
-<a target="_blank" href="https://colab.research.google.com/github/enisteper1/Personalized-Recommendation-with-Transformers/blob/main/Personalized_Recommendation_with_Transformers.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/enisteper1/Discover-Books-with-Two-Towers/blob/main/discover_books_with_two_towers.ipynb">
 <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
 </td>
 
